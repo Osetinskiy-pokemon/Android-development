@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fun Calculator</string>
+    <string name="button_clear">clear</string>
+    <string name="expression">Expression</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Веселый калькулятор</string>
+    <string name="button_clear">удалить</string>
+    <string name="expression">Выражение</string>
+</resources>
